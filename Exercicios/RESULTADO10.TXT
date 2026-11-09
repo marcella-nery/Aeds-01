@@ -1,2 +1,0 @@
-Cadeia: ola mundo  - Resultado: 0
-Cadeia: ola  mundo  - Resultado: 0
